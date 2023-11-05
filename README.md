@@ -8,7 +8,7 @@
 
 > The &#34;Dummy User Data Generator&#34; is a Node.js web application built using the Express framework that provides a simple and convenient way to generate fictional user data for various purposes, such as testing, prototyping, or populating a database. This project aims to simplify the process of creating placeholder user information by offering a user-friendly API for generating dummy user profiles with various details.
 
-### ✨ [Demo](http://localhost/generate-users/2)
+### ✨ [Demo](http://localhost:4000/generate-users/2)
 
 ## Install
 
@@ -32,7 +32,7 @@ npm run test
 
 👤 **Arindam Chattopadhyay**
 
-* Github: [@Arindam-Seraphic](https://github.com/Arindam-Seraphic)
+- Github: [@Arindam-Seraphic](https://github.com/Arindam-Seraphic)
 
 ## Show your support
 
@@ -43,5 +43,6 @@ Give a ⭐️ if this project helped you!
 Copyright © 2023 [Arindam Chattopadhyay](https://github.com/Arindam-Seraphic).<br />
 This project is [MIT](https://opensource.org/license/mit/) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
