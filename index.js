@@ -17,6 +17,10 @@ const sampleInterests = [
   "Programming",
 ];
 
+app.get("/", (req, res) => {
+  res.send("Welcome to dummy user data api");
+});
+
 app.get("/generate-users/:count", (req, res) => {
   const count = parseInt(req.params.count);
 
